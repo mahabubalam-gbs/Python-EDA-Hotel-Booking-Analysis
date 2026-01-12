@@ -42,7 +42,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a hotel bo
 - Line plots for demand and pricing trends
 
 ---
-## Key takeaways:  
+## 🚀 Key takeaways:  
 - ✔ Clear seasonal impact on ADR  
 - ✔ Different pricing behavior for cancelled vs confirmed bookings  
 - ✔ Strong insights from visual analysis
@@ -72,5 +72,6 @@ Md Mahabub Alam Finance Graduate | Aspiring Data Analyst 📍 Bangladesh 🔗 Gi
 
 🔗 LinkedIn: https://www.linkedin.com/in/md-mahabub-alam-513611354/
 
-📸 Project Screenshots
+## 📸 Project Screenshots
 ![Hotel Booking EDA](images/notebook_code.png)
+
